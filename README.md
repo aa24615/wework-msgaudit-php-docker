@@ -24,6 +24,7 @@ sh run.sh
 ### 说明
 
 
+
 本镜像也同时为你准备了mysql 与 redis 如不需要注释即可		
 
 默认安装是php7.4-fpm版本 如需cli版 请在Dockerfile自行修改	
@@ -33,11 +34,14 @@ sh run.sh
 
 ### 目录
 
-php/C_sdk 企业微信C语言sdk		
+```
+ ├─php/C_sdk                    企业微信C语言sdk		
 
-php/php7-wxwork-finance-sdk 将C语言sdk转换为PHP扩展	
-	
-php/extension 安装扩展时临时目录		
+ ├─php/php7-wxwork-finance-sdk  将C语言sdk转换为PHP扩展	
+
+ ├─php/extension                安装扩展时临时目录		
+ ...
+```
 
 ### 相关开源
 
