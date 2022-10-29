@@ -9,8 +9,7 @@ PHP扩展来源于 [https://github.com/pangdahua/php7-wxwork-finance-sdk](https:
 
 ### 要求
 
-docker
-
+docker    	
 docker-compose
 
 
@@ -37,6 +36,11 @@ sh run.sh
 php/C_sdk 企业微信C语言sdk
 php/php7-wxwork-finance-sdk 将C语言sdk转换为PHP扩展
 php/extension 安装扩展时临时目录
+
+### 相关开源
+
+- [wework-msgaudit](https://github.com/aa24615/wework-msgaudit) (java版 包含数据入库)	
+- [wework-msgaudit-php](https://github.com/aa24615/wework-msgaudit-php)	(php版 包含数据入库)	
 
 
 ###  参与贡献
