@@ -37,8 +37,8 @@ sh run.sh
 ### 目录
 
 ```
- ├─php/C_sdk                    企业微信-会话内容存档 C语言sdk v1.2 [原地址](https://developer.work.weixin.qq.com/document/path/91774)
- ├─php/php7-wxwork-finance-sdk  将C语言sdk编译成PHP扩展 [php7-wxwork-finance-sdk](https://github.com/pangdahua/php7-wxwork-finance-sdk)	
+ ├─php/C_sdk                    企业微信-会话内容存档 C语言sdk v1.2 
+ ├─php/php7-wxwork-finance-sdk  将C语言sdk编译成PHP扩展 
  ├─php/extension                安装扩展时临时目录		
  ├─...
 ```
