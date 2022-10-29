@@ -8,9 +8,9 @@ PHP扩展来源于 [https://github.com/pangdahua/php7-wxwork-finance-sdk](https:
 
 
 ### 要求
-
-docker    	
-docker-compose
+ 
+1. docker    	  		
+2. docker-compose
 
 
 ### 运行
