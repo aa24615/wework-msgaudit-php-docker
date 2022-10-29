@@ -6,6 +6,8 @@ PHP扩展来源于 [https://github.com/pangdahua/php7-wxwork-finance-sdk](https:
 
 我们对其提供docker中运行,省去您在繁琐安装步骤上的麻烦
 
+[官方文档](https://developer.work.weixin.qq.com/document/path/91774)
+
 
 ### 要求
  
@@ -35,8 +37,8 @@ sh run.sh
 ### 目录
 
 ```
- ├─php/C_sdk                    企业微信-会话内容存档 C语言sdk		
- ├─php/php7-wxwork-finance-sdk  将C语言sdk编译成PHP扩展	
+ ├─php/C_sdk                    企业微信-会话内容存档 C语言sdk v1.2 [原地址](https://developer.work.weixin.qq.com/document/path/91774)
+ ├─php/php7-wxwork-finance-sdk  将C语言sdk编译成PHP扩展 [php7-wxwork-finance-sdk](https://github.com/pangdahua/php7-wxwork-finance-sdk)	
  ├─php/extension                安装扩展时临时目录		
  ├─...
 ```
