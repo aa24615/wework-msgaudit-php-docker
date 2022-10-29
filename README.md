@@ -35,12 +35,10 @@ sh run.sh
 ### 目录
 
 ```
- ├─php/C_sdk                    企业微信C语言sdk		
-
- ├─php/php7-wxwork-finance-sdk  将C语言sdk转换为PHP扩展	
-
+ ├─php/C_sdk                    企业微信-会话内容存档 C语言sdk		
+ ├─php/php7-wxwork-finance-sdk  将C语言sdk编译成PHP扩展	
  ├─php/extension                安装扩展时临时目录		
- ...
+ ├─...
 ```
 
 ### 相关开源
